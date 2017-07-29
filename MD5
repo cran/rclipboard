@@ -1,0 +1,10 @@
+151ba71e7609d8fc3a428e27b612c6f3 *DESCRIPTION
+bb48275ad2b4513536bcf317172d3a93 *LICENSE
+c32c0aa25c049ea2d2a9e790ca18be12 *NAMESPACE
+ddbed74b3e1e1a740bdb299cf4190040 *R/rclipButton.R
+9b93251431d35cb7e33ceeb81ce5bc09 *R/rclipboardSetup.R
+98f1d0ec09e75b9d2433d94472f75590 *R/zzz.R
+99090926a750f997e1839c5cd9b22451 *README.md
+1f91008d9fb39b45db0978805499ad9c *inst/lib/clipboard.min.js
+eb0e068bd4374c7b150ed91f585fc703 *man/rclipButton.Rd
+9b0efffe12fe03b3aabf264f55888e29 *man/rclipboardSetup.Rd
