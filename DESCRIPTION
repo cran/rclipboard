@@ -1,6 +1,6 @@
 Package: rclipboard
 Title: Shiny/R Wrapper for 'clipboard.js'
-Version: 0.1.5
+Version: 0.1.6
 Author: Sebastien Bihorel
 Maintainer: Sebastien Bihorel <sb.pmlab@gmail.com>
 Description: Leverages the functionality of 'clipboard.js', a JavaScript library
@@ -15,6 +15,6 @@ URL: https://github.com/sbihorel/rclipboard/
 BugReports: https://github.com/sbihorel/rclipboard/issues/
 Imports: shiny
 NeedsCompilation: no
-Packaged: 2022-02-02 11:42:33 UTC; sebastien
+Packaged: 2022-08-06 19:46:04 UTC; sebastien
 Repository: CRAN
-Date/Publication: 2022-02-02 13:40:02 UTC
+Date/Publication: 2022-08-07 06:40:02 UTC

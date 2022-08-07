@@ -1,4 +1,4 @@
-ca09f7fb670a5ed773da4a624ef3c9e9 *DESCRIPTION
+b243a2dd7467d9c2f22a5b4010cb73e2 *DESCRIPTION
 e7cb9006229a155390a66abff0458bbc *LICENSE
 cd2fa255c7d03b6c5307a0c1cfa47aba *NAMESPACE
 5c74c07f9318ea0f0494de3844d8d62b *NEWS
@@ -7,5 +7,5 @@ cd2fa255c7d03b6c5307a0c1cfa47aba *NAMESPACE
 98f1d0ec09e75b9d2433d94472f75590 *R/zzz.R
 b6d280aea9fe56082fdcc0a00be30fca *README.md
 274d5f6334c31fdb1b0464a912fa7f15 *inst/lib/clipboard.min.js
-c60e3df08ac8fd1f3973643cc7eb6718 *man/rclipButton.Rd
+f33bc6dcd96684f43a3f5e4e9eabe7d7 *man/rclipButton.Rd
 9b0efffe12fe03b3aabf264f55888e29 *man/rclipboardSetup.Rd
